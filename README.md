@@ -1,18 +1,16 @@
-# Vuejs & TailwindCSS Portfolio - With Dark Mode
+# Vuejs & TailwindCSS Project - With Dark Mode
 
-A simple portfolio starter theme built with Vue.js v3 and TailwindCSS v2.
-
-![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/140909796-815239e4-a986-46ad-bbd0-4b166127bbb8.JPG)
+A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
 ## Demo URL
 
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
+[https://vuejs-tailwindcss-project.netlify.com](https://vuejs-tailwindcss-project.netlify.com)
 
 ## Features
 
 -   Simple and responsive design
 -   [Vue.js v3](https://vuejs.org) with [Vue Router](https://router.vuejs.org)
--   [Tailwind CSS v2](https://tailwindcss.com)
+-   [Tailwind CSS v3](https://tailwindcss.com)
 -   Theme Switcher with Dark Mode
 -   Composition API
 -   Vue transitions
@@ -41,13 +39,13 @@ brew install node
 2. ##### Clone the repo:
 
 ```
-git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
+git clone https://github.com/blasbot/vuejs-tailwindcss-project.git
 ```
 
 3. ##### Open the project folder:
 
 ```
-cd vuejs-tailwindcss-portfolio
+cd vuejs-tailwindcss-project
 ```
 
 4. ##### Install packages and dependencies:
@@ -65,9 +63,5 @@ npm run serve
 ## Notes
 
 -   Always run `npm install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/c/StomanStudio). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
 -   Feel free to use it as your own portfolio
 -   Contributions are welcome

@@ -3,8 +3,8 @@ export default {
 	data: () => {
 		return {
 			copyrightDate: new Date().getFullYear(),
-			projectName: 'Vue.js & TailwindCSS Portfolio',
-			author: 'Stoman',
+			projectName: 'Vue.js & Tailwind CSS Project',
+			author: 'Blas',
 		};
 	},
 };
@@ -17,7 +17,7 @@ export default {
 		>
 			&copy; {{ copyrightDate }}.
 			<a
-				href="https://github.com/realstoman/vuejs-tailwindcss-portfolio"
+				href="https://github.com/blasbot/vuejs-tailwindcss-project"
 				target="__blank"
 				class="font-general-medium hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
 			>
@@ -25,7 +25,7 @@ export default {
 			</a>
 			. Developed by
 			<a
-				href="https://stoman.me"
+				href="https://blasbot.me"
 				target="__blank"
 				class="font-general-medium text-secondary-dark dark:text-secondary-light uppercase hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
 				>{{ author }}</a
