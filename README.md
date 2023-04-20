@@ -1,4 +1,4 @@
-# Vuejs & TailwindCSS Project - With Dark Mode
+# Vuejs & TailwindCSS Project
 
 A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
@@ -63,5 +63,4 @@ npm run serve
 ## Notes
 
 -   Always run `npm install` after pulling new changes
--   Feel free to use it as your own portfolio
 -   Contributions are welcome
