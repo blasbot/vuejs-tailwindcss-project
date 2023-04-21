@@ -4,7 +4,7 @@ A simple portfolio starter theme built with Vue.js v3 and Tailwind CSS v3.
 
 ## Demo URL
 
-[https://vuejs-tailwindcss-project.netlify.com](https://vuejs-tailwindcss-project.netlify.com)
+[https://vuejs-tailwindcss-project.vercel.app/](https://vuejs-tailwindcss-project.vercel.app/)
 
 ## Features
 
